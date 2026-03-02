@@ -1,5 +1,5 @@
 ## สิ่งที่เปลี่ยนแปลง
-<!-- อธิบายสั้นๆ ว่า PR นี้ทำอะไร -->
+< อธิบายสั้นๆ ว่า PR นี้ทำอะไร >
 
 
 ## ประเภทการเปลี่ยนแปลง
@@ -10,11 +10,11 @@
 
 
 ## ทำไมถึงเปลี่ยน
-<!-- context, ticket, หรือปัญหาที่แก้ เช่น Closes #123 -->
+< context, ticket, หรือปัญหาที่แก้ เช่น Closes #123 >
 
 
 ## วิธีทดสอบ
-<!-- reviewer จะ verify ได้ยังไง ทดสอบบน environment ไหน -->
+ < reviewer จะ verify ได้ยังไง ทดสอบบน environment ไหน >
 - [ ] ทดสอบบน local แล้ว
 - [ ] ทดสอบบน dev environment แล้ว
 
@@ -30,4 +30,4 @@
 
 
 ## Screenshot / Log (ถ้ามี)
-<!-- แนบ screenshot หรือ log output ที่เกี่ยวข้อง -->
+< แนบ screenshot หรือ log output ที่เกี่ยวข้อง >
